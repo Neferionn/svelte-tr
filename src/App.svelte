@@ -1,7 +1,10 @@
 <script>
+  import Form from "./components/Form.svelte";
 </script>
 
-<main />
+<main class="flex flex-col items-center">
+  <Form />
+</main>
 
 <style lang="postcss" global>
   @tailwind base;

@@ -1,10 +1,7 @@
 <script>
-  import Users from "./components/Users.svelte";
 </script>
 
-<main class="flex flex-col items-center">
-  <Users />
-</main>
+<main />
 
 <style lang="postcss" global>
   @tailwind base;

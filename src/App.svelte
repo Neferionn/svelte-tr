@@ -1,10 +1,8 @@
 <script>
-  import Form from "./components/Form.svelte";
+  import PostList from "./components/PostList.svelte";
 </script>
 
-<main class="flex flex-col items-center">
-  <Form />
-</main>
+<PostList />
 
 <style lang="postcss" global>
   @tailwind base;
